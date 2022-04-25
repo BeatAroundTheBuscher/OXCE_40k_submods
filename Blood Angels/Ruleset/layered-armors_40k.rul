@@ -1276,7 +1276,7 @@ extraSprites:
   - typeSingle: 22__3__MEDAL2
     fileSingle: Resources/LAYER/MEDAL2.png
   - typeSingle: 22__3__MEDAL3
-    fileSingle: Resources/LAYER/MEDAL3.png    
+    fileSingle: Resources/LAYER/MEDAL3.png  
   - typeSingle: 22__1__PHBLV1
     fileSingle: Resources/LAYER/BLOODA/PHBLV1.png
   - typeSingle: 22__1__PHBLV2
@@ -1587,7 +1587,7 @@ extraSprites:
   - typeSingle: GOGGLES__3__GOGGLES
     fileSingle: Resources/LAYER/BLOODA/goggles.png
   - typeSingle: CAPE__3__GOGGLES
-    fileSingle: Resources/LAYER/BLOODA/goggles.png	
+    fileSingle: Resources/LAYER/BLOODA/goggles.png
 #
   - type: TINVFZ.SPK #TATICAL F                                  ZOMBIESSSSSSSSSSSSS
     singleImage: true
@@ -1734,7 +1734,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/BLOODA/MXTEC2.png      
+      0: Resources/MKX-ARMOR/BLOODA/MXTEC2.png    
   - type: PRIMTACLV1.PCK #MKX LEVEL 1
     width: 512
     height: 720
@@ -1804,7 +1804,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/BLOODA/MXINC5.png      
+      0: Resources/MKX-ARMOR/BLOODA/MXINC5.png    
   - type: PRIMPHBLV1.PCK #MKX LEVEL 1
     width: 512
     height: 720
@@ -2226,7 +2226,7 @@ extraSprites:
     width: 256
     height: 840
     files:
-      0: Resources/dread/BLOODA/dread.png	  
+      0: Resources/dread/BLOODA/dread.png  
   - type: DREAD2.PCK    #MISSELE
     subX: 32
     subY: 40
@@ -2296,7 +2296,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/Stormtalon/BLOODA/RTS.png	  
+      0: Resources/Stormtalon/BLOODA/RTS.png  
   - type: VINDICATOR.PCK
     subX: 32
     subY: 40
@@ -2331,24 +2331,24 @@ extraSprites:
       78: Resources/Rank/basebits78.png
       79: Resources/Rank/basebits79.gif
       133: Resources/Stormhawk/BLOODA/Stormhawk2_base.png
-      308: Resources/Basebits/basebits308.png   #Facility
+      308: Resources/Basebits/basebits308.png #Facility
       533: Resources/Rhino/BLOODA/Rhino_ass.png
       534: Resources/Rhino/BLOODA/Rhino_dev.png
       535: Resources/Rhino/BLOODA/Rhino_sct.png
 # PLUS 33 BASE ICON
 #PRIMARIS
 # PLUS 33 BASE ICON
-      911: Resources/Thunderhawk/ULTRAMARINE/Thunderhawk_base1.png        #MARINES  0
-      912: Resources/Thunderhawk/IMPERIALF/Thunderhawk_base1.png          #MARINES  1
-      913: Resources/Thunderhawk/BLOODA/Thunderhawk_base1.png             #MARINES  2
-      914: Resources/Thunderhawk/SALA/Thunderhawk_base1.png               #MARINES  3
-      915: Resources/Impulsor/BLOODA/parmy_base.png               #MARINES  4
-      916: Resources/Impulsor/BLOODA/repulsor_base.png            #MARINES  5
-      917: Resources/Impulsor/BLOODA/parmy_base.png               #MARINES  6
-      918: Resources/Xiphon/BLOODA/Xiphon_base.png                #MARINES  7
-      919: Resources/Impulsor/BLOODA/impulsor_base.png            #MARINES  8
-      920: Resources/Impulsor/BLOODA/repulsor_base.png            #MARINES  9
-      921: Resources/Impulsor/BLOODA/repulsord_base.png            #MARINES 10
+      911: Resources/Thunderhawk/ULTRAMARINE/Thunderhawk_base1.png      #MARINES  0
+      912: Resources/Thunderhawk/IMPERIALF/Thunderhawk_base1.png        #MARINES  1
+      913: Resources/Thunderhawk/BLOODA/Thunderhawk_base1.png           #MARINES  2
+      914: Resources/Thunderhawk/SALA/Thunderhawk_base1.png             #MARINES  3
+      915: Resources/Impulsor/BLOODA/parmy_base.png             #MARINES  4
+      916: Resources/Impulsor/BLOODA/repulsor_base.png          #MARINES  5
+      917: Resources/Impulsor/BLOODA/parmy_base.png             #MARINES  6
+      918: Resources/Xiphon/BLOODA/Xiphon_base.png              #MARINES  7
+      919: Resources/Impulsor/BLOODA/impulsor_base.png          #MARINES  8
+      920: Resources/Impulsor/BLOODA/repulsor_base.png          #MARINES  9
+      921: Resources/Impulsor/BLOODA/repulsord_base.png          #MARINES 10
 #BIG OBJS
   - type: INTICON.PCK
     files:
@@ -2430,33 +2430,33 @@ extraSprites:
       451: Resources/Stormtalon/BLOODA/451.png
       456: Resources/Scout/BLOODA/456.png
       457: Resources/Stormraven/BLOODA/457.png
-      900: Resources/Zombies/BLOODA/900.png       #ZOMBIESSSSSSSSSSSSS
-      901: Resources/Zombies/BLOODA/901.png       #ZOMBIESSSSSSSSSSSSS
-      902: Resources/Zombies/BLOODA/902.png       #ZOMBIESSSSSSSSSSSSS
-      903: Resources/MK7-ARMOR/BLOODA/904.png       #SIGNAL
-      905: Resources/MKX-ARMOR/BLOODA/905.png       #MKX
-      906: Resources/MKX-ARMOR/BLOODA/906.png       #MKX
-      907: Resources/MKX-ARMOR/BLOODA/907.png       #MKX
-      908: Resources/MKX-ARMOR/BLOODA/908.png       #MKX
-      909: Resources/MKX-ARMOR/BLOODA/909.png       #MKX
-      910: Resources/MKX-ARMOR/BLOODA/910.png       #MKX
-      911: Resources/MKX-ARMOR/BLOODA/911.png       #MKX
-      912: Resources/MKX-ARMOR/BLOODA/912.png       #MKX
-      913: Resources/MKX-ARMOR/BLOODA/913.png       #MKX
-      914: Resources/MKX-ARMOR/BLOODA/914.png       #MKX
-      920: Resources/MKX-ARMOR/BLOODA/920.png       #MKX
-      921: Resources/MKX-ARMOR/BLOODA/921.png       #MKX
-      922: Resources/MKX-ARMOR/BLOODA/922.png       #MKX
-      923: Resources/MKX-ARMOR/BLOODA/923.png       #MKX
-      924: Resources/MKX-ARMOR/BLOODA/924.png       #MKX
-      925: Resources/MKX-ARMOR/BLOODA/925.png       #MKX
-      926: Resources/MKX-ARMOR/BLOODA/926.png       #MKX      
+      900: Resources/Zombies/BLOODA/900.png     #ZOMBIESSSSSSSSSSSSS
+      901: Resources/Zombies/BLOODA/901.png     #ZOMBIESSSSSSSSSSSSS
+      902: Resources/Zombies/BLOODA/902.png     #ZOMBIESSSSSSSSSSSSS
+      903: Resources/MK7-ARMOR/BLOODA/904.png     #SIGNAL
+      905: Resources/MKX-ARMOR/BLOODA/905.png     #MKX
+      906: Resources/MKX-ARMOR/BLOODA/906.png     #MKX
+      907: Resources/MKX-ARMOR/BLOODA/907.png     #MKX
+      908: Resources/MKX-ARMOR/BLOODA/908.png     #MKX
+      909: Resources/MKX-ARMOR/BLOODA/909.png     #MKX
+      910: Resources/MKX-ARMOR/BLOODA/910.png     #MKX
+      911: Resources/MKX-ARMOR/BLOODA/911.png     #MKX
+      912: Resources/MKX-ARMOR/BLOODA/912.png     #MKX
+      913: Resources/MKX-ARMOR/BLOODA/913.png     #MKX
+      914: Resources/MKX-ARMOR/BLOODA/914.png     #MKX
+      920: Resources/MKX-ARMOR/BLOODA/920.png     #MKX
+      921: Resources/MKX-ARMOR/BLOODA/921.png     #MKX
+      922: Resources/MKX-ARMOR/BLOODA/922.png     #MKX
+      923: Resources/MKX-ARMOR/BLOODA/923.png     #MKX
+      924: Resources/MKX-ARMOR/BLOODA/924.png     #MKX
+      925: Resources/MKX-ARMOR/BLOODA/925.png     #MKX
+      926: Resources/MKX-ARMOR/BLOODA/926.png     #MKX      
   - type: FLOOROB.PCK
     files:
       82: Resources/bike/BLOODA/floorob_82.png
       83: Resources/bike/BLOODA/floorob_83.png
       84: Resources/bike/BLOODA/floorob_84.png
-      85: Resources/bike/BLOODA/floorob_85.png	
+      85: Resources/bike/BLOODA/floorob_85.png
       86: Resources/dread/BLOODA/floorob_86.png
       87: Resources/dread/BLOODA/floorob_87.png
       88: Resources/dread/BLOODA/floorob_88.png
@@ -2464,7 +2464,7 @@ extraSprites:
       90: Resources/Tarantula/BLOODA/floorob_90.png
       91: Resources/Tarantula/BLOODA/floorob_91.png
       92: Resources/Tarantula/BLOODA/floorob_92.png
-      93: Resources/Tarantula/BLOODA/floorob_93.png	  
+      93: Resources/Tarantula/BLOODA/floorob_93.png  
       95: Resources/Terminator/BLOODA/floorob_95.png
       96: Resources/Scout/BLOODA/floorob_96.png
       97: Resources/MK7-ARMOR/BLOODA/floorob_97.png
@@ -2499,29 +2499,29 @@ extraSprites:
       351: Resources/Stormraven/BLOODA/floorob_351.png
       352: Resources/Stormraven/BLOODA/floorob_352.png
       353: Resources/Stormraven/BLOODA/floorob_353.png
-      900: Resources/Zombies/BLOODA/floorob_900.png       #ZOMBIESSSSSSSSSSSSS
-      901: Resources/Zombies/BLOODA/floorob_901.png       #ZOMBIESSSSSSSSSSSSS
-      902: Resources/Zombies/BLOODA/floorob_902.png       #ZOMBIESSSSSSSSSSSSS
-      903: Resources/MK7-ARMOR/BLOODA/floorob_903.png     #SIGNAL
-      904: Resources/MKX-ARMOR/BLOODA/floorob_904.png     #MKX
-      905: Resources/MKX-ARMOR/BLOODA/floorob_905.png     #MKX
-      906: Resources/MKX-ARMOR/BLOODA/floorob_906.png     #MKX
-      907: Resources/MKX-ARMOR/BLOODA/floorob_907.png     #MKX
-      908: Resources/MKX-ARMOR/BLOODA/floorob_908.png     #MKX
-      909: Resources/MKX-ARMOR/BLOODA/floorob_909.png     #MKX
-      910: Resources/MKX-ARMOR/BLOODA/floorob_910.png     #MKX
-      911: Resources/MKX-ARMOR/BLOODA/floorob_911.png     #MKX
-      912: Resources/MKX-ARMOR/BLOODA/floorob_912.png     #MKX
-      913: Resources/MKX-ARMOR/BLOODA/floorob_913.png     #MKX
-      914: Resources/MKX-ARMOR/BLOODA/floorob_914.png     #MKX
-      915: Resources/MKX-ARMOR/BLOODA/floorob_915.png     #MKX
-      916: Resources/MKX-ARMOR/BLOODA/floorob_916.png     #MKX
-      917: Resources/MKX-ARMOR/BLOODA/floorob_917.png     #MKX
-      918: Resources/MKX-ARMOR/BLOODA/floorob_918.png     #MKX
-      919: Resources/MKX-ARMOR/BLOODA/floorob_919.png     #MKX
-      920: Resources/MKX-ARMOR/BLOODA/floorob_920.png     #MKX
-      921: Resources/MKX-ARMOR/BLOODA/floorob_921.png     #MKX
-      922: Resources/MKX-ARMOR/BLOODA/floorob_922.png     #MKX
+      900: Resources/Zombies/BLOODA/floorob_900.png     #ZOMBIESSSSSSSSSSSSS
+      901: Resources/Zombies/BLOODA/floorob_901.png     #ZOMBIESSSSSSSSSSSSS
+      902: Resources/Zombies/BLOODA/floorob_902.png     #ZOMBIESSSSSSSSSSSSS
+      903: Resources/MK7-ARMOR/BLOODA/floorob_903.png   #SIGNAL
+      904: Resources/MKX-ARMOR/BLOODA/floorob_904.png   #MKX
+      905: Resources/MKX-ARMOR/BLOODA/floorob_905.png   #MKX
+      906: Resources/MKX-ARMOR/BLOODA/floorob_906.png   #MKX
+      907: Resources/MKX-ARMOR/BLOODA/floorob_907.png   #MKX
+      908: Resources/MKX-ARMOR/BLOODA/floorob_908.png   #MKX
+      909: Resources/MKX-ARMOR/BLOODA/floorob_909.png   #MKX
+      910: Resources/MKX-ARMOR/BLOODA/floorob_910.png   #MKX
+      911: Resources/MKX-ARMOR/BLOODA/floorob_911.png   #MKX
+      912: Resources/MKX-ARMOR/BLOODA/floorob_912.png   #MKX
+      913: Resources/MKX-ARMOR/BLOODA/floorob_913.png   #MKX
+      914: Resources/MKX-ARMOR/BLOODA/floorob_914.png   #MKX
+      915: Resources/MKX-ARMOR/BLOODA/floorob_915.png   #MKX
+      916: Resources/MKX-ARMOR/BLOODA/floorob_916.png   #MKX
+      917: Resources/MKX-ARMOR/BLOODA/floorob_917.png   #MKX
+      918: Resources/MKX-ARMOR/BLOODA/floorob_918.png   #MKX
+      919: Resources/MKX-ARMOR/BLOODA/floorob_919.png   #MKX
+      920: Resources/MKX-ARMOR/BLOODA/floorob_920.png   #MKX
+      921: Resources/MKX-ARMOR/BLOODA/floorob_921.png   #MKX
+      922: Resources/MKX-ARMOR/BLOODA/floorob_922.png   #MKX
   - type: HANDOB.PCK
     height: 40
     width: 256
@@ -2529,16 +2529,16 @@ extraSprites:
     subY: 40
     files:
         240: Resources/Banner/BLOODA/240.png
-        1728: Resources/MKX-ARMOR/BLOODA/1728.png          #PRIMARIS
-        1736: Resources/MKX-ARMOR/BLOODA/1736.png          #PRIMARIS
+        1728: Resources/MKX-ARMOR/BLOODA/1728.png        #PRIMARIS
+        1736: Resources/MKX-ARMOR/BLOODA/1736.png        #PRIMARIS
   - type: X1.PCK                       #EXPLOSION EXPLOSIONS EXPLOSION EXPLOSION EXPLOSIONS EXPLOSION
     width: 1024
     height: 448
     subX: 128
     subY: 64
     files:      
-      1728: Resources/MKX-ARMOR/BLOODA/XTHUNDER.png        #PRIMARIS
-      1736: Resources/MKX-ARMOR/BLOODA/XBOLTER.png         #PRIMARIS        
+      1728: Resources/MKX-ARMOR/BLOODA/XTHUNDER.png      #PRIMARIS
+      1736: Resources/MKX-ARMOR/BLOODA/XBOLTER.png       #PRIMARIS        
 ##################################################################DON`T ALTER##################################################################
 ##################################################################################################################################################		
 items:
@@ -2685,10 +2685,10 @@ items:
   - type: SE_CORPSE4
     floorSprite: 281
   - type: STR_LTS_CORPSE
-    bigSprite: 292
+    bigSprite: {mod: 40k, index: 292}
     floorSprite: 273
   - type: STR_RTS_CORPSE
-    bigSprite: 292
+    bigSprite: {mod: 40k, index: 292}
     floorSprite: 272
   - type: STR_LTT_CORPSE
     bigSprite: 199
@@ -2787,7 +2787,7 @@ crafts:
     sprite: 886
   - type: STR_IMPULSORS          #PRIMARIS
     sprite: 886
-  - type: STR_DROP #dropod´s
+  - type: STR_DROP #dropodï¿½s
     sprite: 28
   - type: STR_STORMEAGLE
     sprite: 25
@@ -2811,7 +2811,7 @@ crafts:
     sprite: 30
   - type: STR_CHAPTERARMY
     sprite: 32
-  - type: STR_SKYRANGER #dropod´s
+  - type: STR_SKYRANGER #dropodï¿½s
     sprite: 23	
   - type: STR_LIGHTNING #thunderhawnk Type 2
     maxSkinIndex: 4            # default 0
