@@ -1,2 +1,8 @@
-# OXCE_40k_subfactions
-Subfactions for OXCE 40k
+# OXCE 40k Submods
+
+Contains the sub mods and factions
+
+- 40k StatStrings
+- Blood Angels
+- Imperial Fists
+- Salamanders
