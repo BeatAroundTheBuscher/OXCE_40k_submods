@@ -1228,12 +1228,12 @@ extraSprites:
       191: Resources/Rank/smoke191.png
       192: Resources/Rank/smoke192.png
       193: Resources/Rank/smoke193.png
-      254: Resources/Rank/smoke254.png # SALAMANDERS
-      255: Resources/Rank/smoke255.png # SALAMANDERS
-      256: Resources/Rank/smoke256.png # SALAMANDERS
-      257: Resources/Rank/smoke257.png # SALAMANDERS
-      258: Resources/Rank/smoke258.png # SALAMANDERS
-      259: Resources/Rank/smoke259.png # SALAMANDERS
+      254: Resources/Rank/smoke254.png  #SALAMANDERS
+      255: Resources/Rank/smoke255.png  #SALAMANDERS
+      256: Resources/Rank/smoke256.png  #SALAMANDERS
+      257: Resources/Rank/smoke257.png  #SALAMANDERS
+      258: Resources/Rank/smoke258.png  #SALAMANDERS
+      259: Resources/Rank/smoke259.png  #SALAMANDERS
   - type: TinyRanks
     width: 42
     height: 7
@@ -1285,7 +1285,7 @@ extraSprites:
   - typeSingle: 22__3__MEDAL2
     fileSingle: Resources/LAYER/MEDAL2.png
   - typeSingle: 22__3__MEDAL3
-    fileSingle: Resources/LAYER/MEDAL3.png  
+    fileSingle: Resources/LAYER/MEDAL3.png    
   - typeSingle: 22__1__PHBLV1
     fileSingle: Resources/LAYER/SALA/PHBLV1.png
   - typeSingle: 22__1__PHBLV2
@@ -1596,7 +1596,7 @@ extraSprites:
   - typeSingle: GOGGLES__3__GOGGLES
     fileSingle: Resources/LAYER/SALA/goggles.png
   - typeSingle: CAPE__3__GOGGLES
-    fileSingle: Resources/LAYER/SALA/goggles.png
+    fileSingle: Resources/LAYER/SALA/goggles.png	
 #
   - type: TINVFZ.SPK #TATICAL F                                  ZOMBIESSSSSSSSSSSSS
     singleImage: true
@@ -1743,7 +1743,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/SALA/MXTEC2.png    
+      0: Resources/MKX-ARMOR/SALA/MXTEC2.png      
   - type: PRIMTACLV1.PCK #MKX LEVEL 1
     width: 512
     height: 720
@@ -1813,7 +1813,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/SALA/MXINC5.png    
+      0: Resources/MKX-ARMOR/SALA/MXINC5.png      
   - type: PRIMPHBLV1.PCK #MKX LEVEL 1
     width: 512
     height: 720
@@ -2235,7 +2235,7 @@ extraSprites:
     width: 256
     height: 840
     files:
-      0: Resources/dread/SALA/dread.png  
+      0: Resources/dread/SALA/dread.png	  
   - type: DREAD2.PCK    #MISSELE
     subX: 32
     subY: 40
@@ -2305,7 +2305,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/Stormtalon/SALA/RTS.png  
+      0: Resources/Stormtalon/SALA/RTS.png	  
   - type: VINDICATOR.PCK
     subX: 32
     subY: 40
@@ -2340,30 +2340,30 @@ extraSprites:
       78: Resources/Rank/basebits78.png
       79: Resources/Rank/basebits79.gif
       133: Resources/Stormhawk/SALA/Stormhawk2_base.png
-      308: Resources/Basebits/basebits308.png #Facility
+      308: Resources/Basebits/basebits308.png   #Facility
       533: Resources/Rhino/SALA/Rhino_ass.png
       534: Resources/Rhino/SALA/Rhino_dev.png
       535: Resources/Rhino/SALA/Rhino_sct.png
-      871: Resources/Rank/basebits871.png    #SALAMANDERS
-      872: Resources/Rank/basebits872.png    #SALAMANDERS
-      873: Resources/Rank/basebits873.png    #SALAMANDERS
-      874: Resources/Rank/basebits874.png    #SALAMANDERS
-      875: Resources/Rank/basebits875.png    #SALAMANDERS
-      876: Resources/Rank/basebits876.png    #SALAMANDERS
+      871: Resources/Rank/basebits871.png      #SALAMANDERS
+      872: Resources/Rank/basebits872.png      #SALAMANDERS
+      873: Resources/Rank/basebits873.png      #SALAMANDERS
+      874: Resources/Rank/basebits874.png      #SALAMANDERS
+      875: Resources/Rank/basebits875.png      #SALAMANDERS
+      876: Resources/Rank/basebits876.png      #SALAMANDERS
 # PLUS 33 BASE ICON
 #PRIMARIS
 # PLUS 33 BASE ICON
-      911: Resources/Thunderhawk/ULTRAMARINE/Thunderhawk_base1.png      #MARINES  0
-      912: Resources/Thunderhawk/IMPERIALF/Thunderhawk_base1.png        #MARINES  1
-      913: Resources/Thunderhawk/BLOODA/Thunderhawk_base1.png           #MARINES  2
-      914: Resources/Thunderhawk/SALA/Thunderhawk_base1.png             #MARINES  3
-      915: Resources/Impulsor/SALA/parmy_base.png             #MARINES  4
-      916: Resources/Impulsor/SALA/repulsor_base.png          #MARINES  5
-      917: Resources/Impulsor/SALA/parmy_base.png             #MARINES  6
-      918: Resources/Xiphon/SALA/Xiphon_base.png              #MARINES  7
-      919: Resources/Impulsor/SALA/impulsor_base.png          #MARINES  8
-      920: Resources/Impulsor/SALA/repulsor_base.png          #MARINES  9
-      921: Resources/Impulsor/SALA/repulsord_base.png          #MARINES 10
+      911: Resources/Thunderhawk/ULTRAMARINE/Thunderhawk_base1.png        #MARINES  0
+      912: Resources/Thunderhawk/IMPERIALF/Thunderhawk_base1.png          #MARINES  1
+      913: Resources/Thunderhawk/BLOODA/Thunderhawk_base1.png             #MARINES  2
+      914: Resources/Thunderhawk/SALA/Thunderhawk_base1.png               #MARINES  3
+      915: Resources/Impulsor/SALA/parmy_base.png               #MARINES  4
+      916: Resources/Impulsor/SALA/repulsor_base.png            #MARINES  5
+      917: Resources/Impulsor/SALA/parmy_base.png               #MARINES  6
+      918: Resources/Xiphon/SALA/Xiphon_base.png                #MARINES  7
+      919: Resources/Impulsor/SALA/impulsor_base.png            #MARINES  8
+      920: Resources/Impulsor/SALA/repulsor_base.png            #MARINES  9
+      921: Resources/Impulsor/SALA/repulsord_base.png            #MARINES 10
 #BIG OBJS
   - type: INTICON.PCK
     files:
@@ -2445,33 +2445,33 @@ extraSprites:
       451: Resources/Stormtalon/SALA/451.png
       456: Resources/Scout/SALA/456.png
       457: Resources/Stormraven/SALA/457.png
-      900: Resources/Zombies/SALA/900.png     #ZOMBIESSSSSSSSSSSSS
-      901: Resources/Zombies/SALA/901.png     #ZOMBIESSSSSSSSSSSSS
-      902: Resources/Zombies/SALA/902.png     #ZOMBIESSSSSSSSSSSSS
-      903: Resources/MK7-ARMOR/SALA/904.png     #SIGNAL
-      905: Resources/MKX-ARMOR/SALA/905.png     #MKX
-      906: Resources/MKX-ARMOR/SALA/906.png     #MKX
-      907: Resources/MKX-ARMOR/SALA/907.png     #MKX
-      908: Resources/MKX-ARMOR/SALA/908.png     #MKX
-      909: Resources/MKX-ARMOR/SALA/909.png     #MKX
-      910: Resources/MKX-ARMOR/SALA/910.png     #MKX
-      911: Resources/MKX-ARMOR/SALA/911.png     #MKX
-      912: Resources/MKX-ARMOR/SALA/912.png     #MKX
-      913: Resources/MKX-ARMOR/SALA/913.png     #MKX
-      914: Resources/MKX-ARMOR/SALA/914.png     #MKX
-      920: Resources/MKX-ARMOR/SALA/920.png     #MKX
-      921: Resources/MKX-ARMOR/SALA/921.png     #MKX
-      922: Resources/MKX-ARMOR/SALA/922.png     #MKX
-      923: Resources/MKX-ARMOR/SALA/923.png     #MKX
-      924: Resources/MKX-ARMOR/SALA/924.png     #MKX
-      925: Resources/MKX-ARMOR/SALA/925.png     #MKX
-      926: Resources/MKX-ARMOR/SALA/926.png     #MKX      
+      900: Resources/Zombies/SALA/900.png       #ZOMBIESSSSSSSSSSSSS
+      901: Resources/Zombies/SALA/901.png       #ZOMBIESSSSSSSSSSSSS
+      902: Resources/Zombies/SALA/902.png       #ZOMBIESSSSSSSSSSSSS
+      903: Resources/MK7-ARMOR/SALA/904.png       #SIGNAL
+      905: Resources/MKX-ARMOR/SALA/905.png       #MKX
+      906: Resources/MKX-ARMOR/SALA/906.png       #MKX
+      907: Resources/MKX-ARMOR/SALA/907.png       #MKX
+      908: Resources/MKX-ARMOR/SALA/908.png       #MKX
+      909: Resources/MKX-ARMOR/SALA/909.png       #MKX
+      910: Resources/MKX-ARMOR/SALA/910.png       #MKX
+      911: Resources/MKX-ARMOR/SALA/911.png       #MKX
+      912: Resources/MKX-ARMOR/SALA/912.png       #MKX
+      913: Resources/MKX-ARMOR/SALA/913.png       #MKX
+      914: Resources/MKX-ARMOR/SALA/914.png       #MKX
+      920: Resources/MKX-ARMOR/SALA/920.png       #MKX
+      921: Resources/MKX-ARMOR/SALA/921.png       #MKX
+      922: Resources/MKX-ARMOR/SALA/922.png       #MKX
+      923: Resources/MKX-ARMOR/SALA/923.png       #MKX
+      924: Resources/MKX-ARMOR/SALA/924.png       #MKX
+      925: Resources/MKX-ARMOR/SALA/925.png       #MKX
+      926: Resources/MKX-ARMOR/SALA/926.png       #MKX      
   - type: FLOOROB.PCK
     files:
       82: Resources/bike/SALA/floorob_82.png
       83: Resources/bike/SALA/floorob_83.png
       84: Resources/bike/SALA/floorob_84.png
-      85: Resources/bike/SALA/floorob_85.png
+      85: Resources/bike/SALA/floorob_85.png	
       86: Resources/dread/SALA/floorob_86.png
       87: Resources/dread/SALA/floorob_87.png
       88: Resources/dread/SALA/floorob_88.png
@@ -2479,7 +2479,7 @@ extraSprites:
       90: Resources/Tarantula/SALA/floorob_90.png
       91: Resources/Tarantula/SALA/floorob_91.png
       92: Resources/Tarantula/SALA/floorob_92.png
-      93: Resources/Tarantula/SALA/floorob_93.png  
+      93: Resources/Tarantula/SALA/floorob_93.png	  
       95: Resources/Terminator/SALA/floorob_95.png
       96: Resources/Scout/SALA/floorob_96.png
       97: Resources/MK7-ARMOR/SALA/floorob_97.png
@@ -2514,29 +2514,29 @@ extraSprites:
       351: Resources/Stormraven/SALA/floorob_351.png
       352: Resources/Stormraven/SALA/floorob_352.png
       353: Resources/Stormraven/SALA/floorob_353.png
-      900: Resources/Zombies/SALA/floorob_900.png     #ZOMBIESSSSSSSSSSSSS
-      901: Resources/Zombies/SALA/floorob_901.png     #ZOMBIESSSSSSSSSSSSS
-      902: Resources/Zombies/SALA/floorob_902.png     #ZOMBIESSSSSSSSSSSSS
-      903: Resources/MK7-ARMOR/SALA/floorob_903.png   #SIGNAL
-      904: Resources/MKX-ARMOR/SALA/floorob_904.png   #MKX
-      905: Resources/MKX-ARMOR/SALA/floorob_905.png   #MKX
-      906: Resources/MKX-ARMOR/SALA/floorob_906.png   #MKX
-      907: Resources/MKX-ARMOR/SALA/floorob_907.png   #MKX
-      908: Resources/MKX-ARMOR/SALA/floorob_908.png   #MKX
-      909: Resources/MKX-ARMOR/SALA/floorob_909.png   #MKX
-      910: Resources/MKX-ARMOR/SALA/floorob_910.png   #MKX
-      911: Resources/MKX-ARMOR/SALA/floorob_911.png   #MKX
-      912: Resources/MKX-ARMOR/SALA/floorob_912.png   #MKX
-      913: Resources/MKX-ARMOR/SALA/floorob_913.png   #MKX
-      914: Resources/MKX-ARMOR/SALA/floorob_914.png   #MKX
-      915: Resources/MKX-ARMOR/SALA/floorob_915.png   #MKX
-      916: Resources/MKX-ARMOR/SALA/floorob_916.png   #MKX
-      917: Resources/MKX-ARMOR/SALA/floorob_917.png   #MKX
-      918: Resources/MKX-ARMOR/SALA/floorob_918.png   #MKX
-      919: Resources/MKX-ARMOR/SALA/floorob_919.png   #MKX
-      920: Resources/MKX-ARMOR/SALA/floorob_920.png   #MKX
-      921: Resources/MKX-ARMOR/SALA/floorob_921.png   #MKX
-      922: Resources/MKX-ARMOR/SALA/floorob_922.png   #MKX
+      900: Resources/Zombies/SALA/floorob_900.png       #ZOMBIESSSSSSSSSSSSS
+      901: Resources/Zombies/SALA/floorob_901.png       #ZOMBIESSSSSSSSSSSSS
+      902: Resources/Zombies/SALA/floorob_902.png       #ZOMBIESSSSSSSSSSSSS
+      903: Resources/MK7-ARMOR/SALA/floorob_903.png     #SIGNAL
+      904: Resources/MKX-ARMOR/SALA/floorob_904.png     #MKX
+      905: Resources/MKX-ARMOR/SALA/floorob_905.png     #MKX
+      906: Resources/MKX-ARMOR/SALA/floorob_906.png     #MKX
+      907: Resources/MKX-ARMOR/SALA/floorob_907.png     #MKX
+      908: Resources/MKX-ARMOR/SALA/floorob_908.png     #MKX
+      909: Resources/MKX-ARMOR/SALA/floorob_909.png     #MKX
+      910: Resources/MKX-ARMOR/SALA/floorob_910.png     #MKX
+      911: Resources/MKX-ARMOR/SALA/floorob_911.png     #MKX
+      912: Resources/MKX-ARMOR/SALA/floorob_912.png     #MKX
+      913: Resources/MKX-ARMOR/SALA/floorob_913.png     #MKX
+      914: Resources/MKX-ARMOR/SALA/floorob_914.png     #MKX
+      915: Resources/MKX-ARMOR/SALA/floorob_915.png     #MKX
+      916: Resources/MKX-ARMOR/SALA/floorob_916.png     #MKX
+      917: Resources/MKX-ARMOR/SALA/floorob_917.png     #MKX
+      918: Resources/MKX-ARMOR/SALA/floorob_918.png     #MKX
+      919: Resources/MKX-ARMOR/SALA/floorob_919.png     #MKX
+      920: Resources/MKX-ARMOR/SALA/floorob_920.png     #MKX
+      921: Resources/MKX-ARMOR/SALA/floorob_921.png     #MKX
+      922: Resources/MKX-ARMOR/SALA/floorob_922.png     #MKX
   - type: HANDOB.PCK
     height: 40
     width: 256
@@ -2544,16 +2544,16 @@ extraSprites:
     subY: 40
     files:
         240: Resources/Banner/SALA/240.png
-        1728: Resources/MKX-ARMOR/SALA/1728.png        #PRIMARIS
-        1736: Resources/MKX-ARMOR/SALA/1736.png        #PRIMARIS
+        1728: Resources/MKX-ARMOR/SALA/1728.png          #PRIMARIS
+        1736: Resources/MKX-ARMOR/SALA/1736.png          #PRIMARIS
   - type: X1.PCK                       #EXPLOSION EXPLOSIONS EXPLOSION EXPLOSION EXPLOSIONS EXPLOSION
     width: 1024
     height: 448
     subX: 128
     subY: 64
     files:      
-      1728: Resources/MKX-ARMOR/SALA/XTHUNDER.png      #PRIMARIS
-      1736: Resources/MKX-ARMOR/SALA/XBOLTER.png       #PRIMARIS        
+      1728: Resources/MKX-ARMOR/SALA/XTHUNDER.png        #PRIMARIS
+      1736: Resources/MKX-ARMOR/SALA/XBOLTER.png         #PRIMARIS        
 ##################################################################DON`T ALTER##################################################################
 ##################################################################################################################################################		
 items:
@@ -2700,10 +2700,10 @@ items:
   - type: SE_CORPSE4
     floorSprite: 281
   - type: STR_LTS_CORPSE
-    bigSprite: {mod: 40k, index: 292}
+    bigSprite: 292
     floorSprite: 273
   - type: STR_RTS_CORPSE
-    bigSprite: {mod: 40k, index: 292}
+    bigSprite: 292
     floorSprite: 272
   - type: STR_LTT_CORPSE
     bigSprite: 199
@@ -2802,7 +2802,7 @@ crafts:
     sprite: 886
   - type: STR_IMPULSORS          #PRIMARIS
     sprite: 886    
-  - type: STR_DROP #dropodï¿½s
+  - type: STR_DROP #dropod´s
     sprite: 28
   - type: STR_STORMEAGLE
     sprite: 25
@@ -2826,7 +2826,7 @@ crafts:
     sprite: 30
   - type: STR_CHAPTERARMY
     sprite: 32
-  - type: STR_SKYRANGER #dropodï¿½s
+  - type: STR_SKYRANGER #dropod´s
     sprite: 23	
   - type: STR_LIGHTNING #thunderhawnk Type 2
     maxSkinIndex: 4            # default 0
