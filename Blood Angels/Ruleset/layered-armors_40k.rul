@@ -1209,7 +1209,7 @@ extraSprites:
       0: Resources/UnitUI/GUI_Aux.gif
   - type: CustomArmorPreviews
     width: 360
-    height: 280
+    height: 600
     subX: 12
     subY: 20
     files:
@@ -1587,7 +1587,7 @@ extraSprites:
   - typeSingle: GOGGLES__3__GOGGLES
     fileSingle: Resources/LAYER/BLOODA/goggles.png
   - typeSingle: CAPE__3__GOGGLES
-    fileSingle: Resources/LAYER/BLOODA/goggles.png	
+    fileSingle: Resources/LAYER/BLOODA/goggles.png
 #
   - type: TINVFZ.SPK #TATICAL F                                  ZOMBIESSSSSSSSSSSSS
     singleImage: true
@@ -2344,7 +2344,7 @@ extraSprites:
       914: Resources/Thunderhawk/SALA/Thunderhawk_base1.png               #MARINES  3
       915: Resources/Impulsor/BLOODA/parmy_base.png               #MARINES  4
       916: Resources/Impulsor/BLOODA/repulsor_base.png            #MARINES  5
-      917: Resources/Impulsor/BLOODA/parmy_base.png               #MARINES  6
+      917: Resources/Droppod/BLOODA/Droppod_base3.png              #MARINES  6
       918: Resources/Xiphon/BLOODA/Xiphon_base.png                #MARINES  7
       919: Resources/Impulsor/BLOODA/impulsor_base.png            #MARINES  8
       920: Resources/Impulsor/BLOODA/repulsor_base.png            #MARINES  9
@@ -2382,7 +2382,7 @@ extraSprites:
       881: Resources/Thunderhawk/Thunderhawk_minimised.gif             #MARINES  3 NOT USED SAFE
       882: Resources/Impulsor/repulsor_minimised.gif                   #MARINES  4
       883: Resources/Impulsor/repulsor_minimised.gif                   #MARINES  5
-      884: Resources/Impulsor/repulsor_minimised.gif                   #MARINES  6
+      884: Resources/Droppod/Droppod_minimised.gif                     #MARINES  6 DROPPODS NEW
       885: Resources/Xiphon/Xiphon_minimised.gif                       #MARINES  7
       886: Resources/Impulsor/impulsor_minimised.gif                   #MARINES  8
       887: Resources/Impulsor/repulsor_minimised.gif                   #MARINES  9
@@ -2394,7 +2394,7 @@ extraSprites:
       892: Resources/Thunderhawk/Thunderhawk_dogfight.gif                   #MARINES 3  NOT USED SAFE
       893: Resources/Impulsor/repulsor_dogfight.gif                         #MARINES 4
       894: Resources/Impulsor/repulsor_dogfight.gif                         #MARINES 5
-      895: Resources/Impulsor/repulsor_dogfight.gif                         #MARINES 6
+      895: Resources/Droppod/Droppod_dogfight.gif                           #MARINES 6  DROPPODS NEW
       896: Resources/Xiphon/Xiphon_dogfight.gif                             #MARINES 7
       897: Resources/Impulsor/impulsor_dogfight.gif                         #MARINES 8
       898: Resources/Impulsor/repulsor_dogfight.gif                         #MARINES 9
@@ -2424,6 +2424,7 @@ extraSprites:
       260: Resources/Terminator/BLOODA/STerminator.png
       261: Resources/Terminator/BLOODA/261.png
       269: Resources/Tech/BLOODA/269.png
+      292: Resources/Support/damage.gif
       306: Resources/JOAN/BLOODA/306.png
       329: Resources/Cent/BLOODA/329.png
       334: Resources/Tarantula/BLOODA/334.png
@@ -2777,6 +2778,8 @@ items:
     bigSprite: 903
     floorSprite: 903
 crafts:
+  - type: STR_DROPPODS
+    sprite: 884
   - type: STR_ARMY_P            #PRIMARIS
     sprite: 882
   - type: STR_REPULSOR          #PRIMARIS
