@@ -1,9 +1,10 @@
 #
 # metadata.yaml for changing armor
 
-name: "Chapter Change to Imperial Fists"
+name: "Chapter Change Salamanders (ROSIGMA)"
 version: 1.0
 author: "bulletdesigner, Ryskeliini, ohartenstein23 with help from all OXC forum, special thks to all who help"
-description: "Change the chapter from Ultramarines to Imperial Fist´s"
+description: "Change the chapter from Ultramarines to Salamanders"
 master: "40k"
 reservedSpace: 2
+id: "Salamanders_ROSIGMA"
