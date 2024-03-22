@@ -1149,6 +1149,25 @@ armors:
       F3: ["0", "TERMINATORSMF", "F3_FACE"]
       F4: ["0", "TERMINATORSMF", "F4_FACE"]
       F5: ["0", "TERMINATORSMF", "F5_FACE"]
+  - type: STR_TASS_ARMOR_CLAWS
+    customArmorPreviewIndex: 217
+    layersDefaultPrefix: 0
+    layersSpecificPrefix:
+      1: TERMINATOR
+      3: TERMINATOR
+    layersDefinition:
+      M0: ["0", "TERMINATORMF", "M0_FACE", "CLAWS"]
+      M1: ["0", "TERMINATORMF", "M1_FACE", "CLAWS"]
+      M2: ["0", "TERMINATORMF", "M2_FACE", "CLAWS"]
+      M3: ["0", "TERMINATORMF", "M3_FACE", "CLAWS"]
+      M4: ["0", "TERMINATORMF", "M4_FACE", "CLAWS"]
+      M5: ["0", "TERMINATORMF", "M5_FACE", "CLAWS"]
+      F0: ["0", "TERMINATORMF", "F0_FACE", "CLAWS"]
+      F1: ["0", "TERMINATORMF", "F1_FACE", "CLAWS"]
+      F2: ["0", "TERMINATORMF", "F2_FACE", "CLAWS"]
+      F3: ["0", "TERMINATORMF", "F3_FACE", "CLAWS"]
+      F4: ["0", "TERMINATORMF", "F4_FACE", "CLAWS"]
+      F5: ["0", "TERMINATORMF", "F5_FACE", "CLAWS"]
 #DREAD
   - type: DREAD_ARMOR_UC           #DREAD ARMOR NORMAL
     customArmorPreviewIndex: [241, 242, 243]
@@ -1494,6 +1513,8 @@ extraSprites:
     fileSingle: Resources/LAYER/SALA/TERMINATORSMF.png
   - typeSingle: CENT__1__CENTMF
     fileSingle: Resources/LAYER/SALA/CENTMF.png
+  - typeSingle: TERMINATOR__3__CLAWS
+    fileSingle: Resources/LAYER/SALA/Terminator_Claws.png
 #
 #
 #
@@ -2805,7 +2826,7 @@ crafts:
     sprite: 886
   - type: STR_IMPULSORS          #PRIMARIS
     sprite: 886    
-  - type: STR_DROP #dropod´s
+  - type: STR_DROP #dropodï¿½s
     sprite: 28
   - type: STR_STORMEAGLE
     sprite: 25
@@ -2829,7 +2850,7 @@ crafts:
     sprite: 30
   - type: STR_CHAPTERARMY
     sprite: 32
-  - type: STR_SKYRANGER #dropod´s
+  - type: STR_SKYRANGER #dropodï¿½s
     sprite: 23	
   - type: STR_LIGHTNING #thunderhawnk Type 2
     maxSkinIndex: 4            # default 0
@@ -2841,3 +2862,5 @@ crafts:
     sprite: 22  
   - type: STR_OLDTHUNDERHAWNK # OLD thunderhawnk
     sprite: 22
+  - type: STR_RHINO_NO_TT
+    sprite: 500
