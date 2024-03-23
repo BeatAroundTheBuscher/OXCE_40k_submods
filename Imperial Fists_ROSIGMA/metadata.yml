@@ -3,7 +3,7 @@
 
 name: "Chapter Change to Imperial Fists (ROSIGMA)"
 version: 1.0
-author: "bulletdesigner, Ryskeliini, ohartenstein23 with help from all OXC forum, special thks to all who help"
+author: "bulletdesigner, Ryskeliini, ohartenstein23, etc."
 description: "Change the chapter from Ultramarines to Imperial Fists; Run this version if you run ROSIGMA, otherwise run the normal (40k) one"
 master: "40k"
 reservedSpace: 2
