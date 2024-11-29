@@ -34,5 +34,5 @@
   - string: "|"
     melee: [80, ~]
   - string: "|"
-    reactions: [80, ~]	
+    reactions: [80, ~]
     stamina: [99, ~]
