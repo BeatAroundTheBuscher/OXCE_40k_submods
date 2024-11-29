@@ -9,7 +9,7 @@ armors:
     customArmorPreviewIndex: 323
     layersDefaultPrefix: 23
     spriteFaceGroup: 6
-    spriteFaceColor: [96, 96, 96, 163, 96, 163, 163, 160, 96, 160, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6    
+    spriteFaceColor: [96, 96, 96, 163, 96, 163, 163, 160, 96, 160, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6
     layersSpecificPrefix:
       23: GRV
     layersDefinition:
@@ -31,7 +31,7 @@ armors:
     customArmorPreviewIndex: 323
     layersDefaultPrefix: 23
     spriteFaceGroup: 6
-    spriteFaceColor: [96, 96, 96, 163, 96, 163, 163, 160, 96, 160, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6    
+    spriteFaceColor: [96, 96, 96, 163, 96, 163, 163, 160, 96, 160, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6
     layersSpecificPrefix:
       23: GRV
     layersDefinition:
@@ -131,7 +131,7 @@ armors:
       F3: ["BIKE", "MKXLV3", "M10_FACE", "MEDAL3"]
       F4: ["BIKE", "MKXLV3", "M11_FACE", "MEDAL3"]
       F5: ["BIKE", "MKXLV3", "M12_FACE", "MEDAL3"]
-      F6: ["BIKE", "MKXLV3", "M13_FACE", "MEDAL3"]      
+      F6: ["BIKE", "MKXLV3", "M13_FACE", "MEDAL3"]
   - type: STR_MKX_BIKE_LV4_UC #MKX
     customArmorPreviewIndex: [324, 325, 326]
     layersDefaultPrefix: 21
@@ -313,7 +313,7 @@ armors:
       F3: ["0", "MKXLV3", "M10_FACE", "MEDAL3"]
       F4: ["0", "MKXLV3", "M11_FACE", "MEDAL3"]
       F5: ["0", "MKXLV3", "M12_FACE", "MEDAL3"]
-      F6: ["0", "MKXLV3", "M13_FACE", "MEDAL3"]      
+      F6: ["0", "MKXLV3", "M13_FACE", "MEDAL3"]
   - type: STR_MKX_TAC_LV4_UC #MKX
     customArmorPreviewIndex: 303
     layersDefaultPrefix: 21
@@ -333,7 +333,7 @@ armors:
       F3: ["0", "MKXLV4", "M10_FACE", "MEDAL3"]
       F4: ["0", "MKXLV4", "M11_FACE", "MEDAL3"]
       F5: ["0", "MKXLV4", "M12_FACE", "MEDAL3"]
-      F6: ["0", "MKXLV4", "M13_FACE", "MEDAL3"]      
+      F6: ["0", "MKXLV4", "M13_FACE", "MEDAL3"]
   - type: STR_MKX_TAC_LV5_UC #MKX
     customArmorPreviewIndex: 304
     layersDefaultPrefix: 21
@@ -414,7 +414,7 @@ armors:
       F3: ["0", "INCLV3", "M10_FACE", "MEDAL3"]
       F4: ["0", "INCLV3", "M11_FACE", "MEDAL3"]
       F5: ["0", "INCLV3", "M12_FACE", "MEDAL3"]
-      F6: ["0", "INCLV3", "M13_FACE", "MEDAL3"]      
+      F6: ["0", "INCLV3", "M13_FACE", "MEDAL3"]
   - type: STR_MKX_INC_LV4_UC #MKX
     customArmorPreviewIndex: 318
     layersDefaultPrefix: 23
@@ -434,7 +434,7 @@ armors:
       F3: ["0", "INCLV4", "M10_FACE", "MEDAL3"]
       F4: ["0", "INCLV4", "M11_FACE", "MEDAL3"]
       F5: ["0", "INCLV4", "M12_FACE", "MEDAL3"]
-      F6: ["0", "INCLV4", "M13_FACE", "MEDAL3"]      
+      F6: ["0", "INCLV4", "M13_FACE", "MEDAL3"]
   - type: STR_MKX_INC_LV5_UC #MKX
     customArmorPreviewIndex: 319
     layersDefaultPrefix: 23
@@ -495,7 +495,7 @@ armors:
       F3: ["0", "PHBLV2", "M10_FACE", "MEDAL3"]
       F4: ["0", "PHBLV2", "M11_FACE", "MEDAL3"]
       F5: ["0", "PHBLV2", "M12_FACE", "MEDAL3"]
-      F6: ["0", "PHBLV2", "M13_FACE", "MEDAL3"]  
+      F6: ["0", "PHBLV2", "M13_FACE", "MEDAL3"]
   - type: STR_MKX_PHB_LV3_UC #PHB
     customArmorPreviewIndex: 307
     layersDefaultPrefix: 22
@@ -656,7 +656,7 @@ armors:
       F3: ["CAPEP", "GRVLV5", "M10_FACE", "MEDAL3"]
       F4: ["CAPEP", "GRVLV5", "M11_FACE", "MEDAL3"]
       F5: ["CAPEP", "GRVLV5", "M12_FACE", "MEDAL3"]
-      F6: ["CAPEP", "GRVLV5", "M13_FACE", "MEDAL3"]    
+      F6: ["CAPEP", "GRVLV5", "M13_FACE", "MEDAL3"]
 ##################################################################FIRSTBORN####################################################################
 ##################################################################################################################################################
   - type: CENT_ARMOR_UC #CENT
@@ -727,7 +727,7 @@ armors:
     layersDefaultPrefix: CAPE
     layersSpecificPrefix:
       1: SCOUTH
-      3: GOGGLES	  
+      3: GOGGLES
     layersDefinition:
       M0: ["CAPEG", "AHSCOUTM", "M0_FACE", "GOGGLES"]
       M1: ["CAPEG", "AHSCOUTM", "M1_FACE", "GOGGLES"]
@@ -746,7 +746,7 @@ armors:
     spriteFaceGroup: 6
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 1
-    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5  
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     layersDefaultPrefix: CAPE
     layersSpecificPrefix:
       1: SCOUTH
@@ -765,11 +765,11 @@ armors:
       F4: ["CAPER", "AHSCOUTF", "F4_FACE", "GOGGLES"]
       F5: ["CAPER", "AHSCOUTF", "F5_FACE", "GOGGLES"]
   - type: STR_SCOUTHY_UC #SCOUT HONOR DESERT
-    customArmorPreviewIndex: 104  
+    customArmorPreviewIndex: 104
     spriteFaceGroup: 6
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 1
-    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5  
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     layersDefaultPrefix: CAPE
     layersSpecificPrefix:
       1: SCOUTH
@@ -792,7 +792,7 @@ armors:
     spriteFaceGroup: 6
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 1
-    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5  
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     layersDefaultPrefix: CAPE
     layersSpecificPrefix:
       1: SCOUTH
@@ -815,7 +815,7 @@ armors:
     spriteFaceGroup: 6
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 1
-    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5  
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     layersDefaultPrefix: CAPE
     layersSpecificPrefix:
       1: SCOUTH
@@ -838,7 +838,7 @@ armors:
     spriteFaceGroup: 6
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 1
-    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5  
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     layersDefaultPrefix: CAPE
     layersSpecificPrefix:
       1: SCOUTH
@@ -861,7 +861,7 @@ armors:
     spriteFaceGroup: 6
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 1
-    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5	
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     layersDefaultPrefix: 0
     layersSpecificPrefix:
       1: TATICAL
@@ -883,7 +883,7 @@ armors:
     spriteFaceGroup: 6
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 1
-    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5  
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     layersDefaultPrefix: 0
     layersSpecificPrefix:
       1: SIGNAL
@@ -920,9 +920,9 @@ armors:
       F2: ["0", "SIGNALF", "F2_FACE"]
       F3: ["0", "SIGNALF", "F3_FACE"]
       F4: ["0", "SIGNALF", "F4_FACE"]
-      F5: ["0", "SIGNALF", "F5_FACE"]      
+      F5: ["0", "SIGNALF", "F5_FACE"]
   - type: STR_HONOR_ARMOR_UC #HONOR
-    customArmorPreviewIndex: 101  
+    customArmorPreviewIndex: 101
     layersDefaultPrefix: 0
     layersSpecificPrefix:
       1: HONOR
@@ -994,7 +994,7 @@ armors:
       F4: ["0", "DEVASTATORF", "F4_FACE"]
       F5: ["0", "DEVASTATORF", "F5_FACE"]
   - type: STR_CHAP_ARMOR_UC ##CHAPLAIN
-    customArmorPreviewIndex: 103 
+    customArmorPreviewIndex: 103
     layersDefaultPrefix: 0
     layersSpecificPrefix:
       1: CHAPLAIN
@@ -1194,11 +1194,11 @@ soldiers:
   - type: STR_SOLDIER_JOAN
     rankSprite: 121
     rankBattleSprite: 221
-    rankTinySprite: 121	
+    rankTinySprite: 121
   - type: STR_SOLDIER
     rankSprite: 121
     rankBattleSprite: 221
-    rankTinySprite: 121    
+    rankTinySprite: 121
   - type: STR_PRIMARISLV1
     rankSprite: 121
     rankBattleSprite: 221
@@ -1287,7 +1287,7 @@ extraSprites:
     fileSingle: Resources/LAYER/IMPERIALF/MKXLV4.png
   - typeSingle: 21__1__MKXLV5
     fileSingle: Resources/LAYER/IMPERIALF/MKXLV5.png
-#    
+#
   - typeSingle: 22__0__0
     fileSingle: Resources/LAYER/0.gif
   - typeSingle: 22__0__CAPEP
@@ -1297,7 +1297,7 @@ extraSprites:
   - typeSingle: 22__3__MEDAL2
     fileSingle: Resources/LAYER/MEDAL2.png
   - typeSingle: 22__3__MEDAL3
-    fileSingle: Resources/LAYER/MEDAL3.png    
+    fileSingle: Resources/LAYER/MEDAL3.png
   - typeSingle: 22__1__PHBLV1
     fileSingle: Resources/LAYER/IMPERIALF/PHBLV1.png
   - typeSingle: 22__1__PHBLV2
@@ -1459,11 +1459,11 @@ extraSprites:
   - typeSingle: SIGNAL__1__SIGNALM
     fileSingle: Resources/LAYER/IMPERIALF/SIGNALM.gif
   - typeSingle: SIGNAL__1__SIGNALF
-    fileSingle: Resources/LAYER/IMPERIALF/SIGNALF.gif	
+    fileSingle: Resources/LAYER/IMPERIALF/SIGNALF.gif
   - typeSingle: ASSAULT__1__ASSAULTM
     fileSingle: Resources/LAYER/IMPERIALF/ASSAULTM.gif
   - typeSingle: ASSAULT__1__ASSAULTF
-    fileSingle: Resources/LAYER/IMPERIALF/ASSAULTF.gif	
+    fileSingle: Resources/LAYER/IMPERIALF/ASSAULTF.gif
   - typeSingle: HONOR__1__HONORM
     fileSingle: Resources/LAYER/IMPERIALF/HONORM.gif
   - typeSingle: HONOR__1__HONORF
@@ -1499,7 +1499,7 @@ extraSprites:
   - typeSingle: APOT__1__APOTM
     fileSingle: Resources/LAYER/IMPERIALF/APOTM.gif
   - typeSingle: APOT__1__APOTF
-    fileSingle: Resources/LAYER/IMPERIALF/APOTF.gif	
+    fileSingle: Resources/LAYER/IMPERIALF/APOTF.gif
   - typeSingle: TERMINATOR__1__TERMINATORMF
     fileSingle: Resources/LAYER/IMPERIALF/TERMINATORMF.gif
   - typeSingle: TSARGENT__1__TERMINATORSMF
@@ -1756,7 +1756,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/IMPERIALF/MXTEC2.png      
+      0: Resources/MKX-ARMOR/IMPERIALF/MXTEC2.png
   - type: PRIMTACLV1.PCK #MKX LEVEL 1
     width: 512
     height: 720
@@ -1826,7 +1826,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/IMPERIALF/MXINC5.png      
+      0: Resources/MKX-ARMOR/IMPERIALF/MXINC5.png
   - type: PRIMPHBLV1.PCK #MKX LEVEL 1
     width: 512
     height: 720
@@ -2081,7 +2081,7 @@ extraSprites:
     subY: 40
     files:
       0: Resources/Terminator/IMPERIALF/TERMINATOR-ARMOR.png
-  - type: XCOM_20.PCK #TERMINATOR CAPTAIN ARMOR xcom20    
+  - type: XCOM_20.PCK #TERMINATOR CAPTAIN ARMOR xcom20
     width: 512
     height: 720
     subX: 32
@@ -2129,7 +2129,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/Terminator/IMPERIALF/TERMINATORASS.png 
+      0: Resources/Terminator/IMPERIALF/TERMINATORASS.png
   - type: XCOM_27.PCK #CHAPLAIN ARMOR xcom27
     width: 512
     height: 720
@@ -2249,7 +2249,7 @@ extraSprites:
     width: 256
     height: 840
     files:
-      0: Resources/dread/IMPERIALF/dread.png	  
+      0: Resources/dread/IMPERIALF/dread.png
   - type: DREAD2.PCK    #MISSELE
     subX: 32
     subY: 40
@@ -2319,7 +2319,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/Stormtalon/IMPERIALF/RTS.png	  
+      0: Resources/Stormtalon/IMPERIALF/RTS.png
   - type: VINDICATOR.PCK
     subX: 32
     subY: 40
@@ -2473,13 +2473,13 @@ extraSprites:
       923: Resources/MKX-ARMOR/IMPERIALF/923.png       #MKX
       924: Resources/MKX-ARMOR/IMPERIALF/924.png       #MKX
       925: Resources/MKX-ARMOR/IMPERIALF/925.png       #MKX
-      926: Resources/MKX-ARMOR/IMPERIALF/926.png       #MKX      
+      926: Resources/MKX-ARMOR/IMPERIALF/926.png       #MKX
   - type: FLOOROB.PCK
     files:
       82: Resources/bike/IMPERIALF/floorob_82.png
       83: Resources/bike/IMPERIALF/floorob_83.png
       84: Resources/bike/IMPERIALF/floorob_84.png
-      85: Resources/bike/IMPERIALF/floorob_85.png	
+      85: Resources/bike/IMPERIALF/floorob_85.png
       86: Resources/dread/IMPERIALF/floorob_86.png
       87: Resources/dread/IMPERIALF/floorob_87.png
       88: Resources/dread/IMPERIALF/floorob_88.png
@@ -2487,7 +2487,7 @@ extraSprites:
       90: Resources/Tarantula/IMPERIALF/floorob_90.png
       91: Resources/Tarantula/IMPERIALF/floorob_91.png
       92: Resources/Tarantula/IMPERIALF/floorob_92.png
-      93: Resources/Tarantula/IMPERIALF/floorob_93.png	  
+      93: Resources/Tarantula/IMPERIALF/floorob_93.png
       95: Resources/Terminator/IMPERIALF/floorob_95.png
       96: Resources/Scout/IMPERIALF/floorob_96.png
       97: Resources/MK7-ARMOR/IMPERIALF/floorob_97.png
@@ -2544,7 +2544,7 @@ extraSprites:
       919: Resources/MKX-ARMOR/IMPERIALF/floorob_919.png     #MKX
       920: Resources/MKX-ARMOR/IMPERIALF/floorob_920.png     #MKX
       921: Resources/MKX-ARMOR/IMPERIALF/floorob_921.png     #MKX
-      922: Resources/MKX-ARMOR/IMPERIALF/floorob_922.png     #MKX      
+      922: Resources/MKX-ARMOR/IMPERIALF/floorob_922.png     #MKX
   - type: HANDOB.PCK
     height: 40
     width: 256
@@ -2559,11 +2559,11 @@ extraSprites:
     height: 448
     subX: 128
     subY: 64
-    files:      
+    files:
       1728: Resources/MKX-ARMOR/IMPERIALF/XTHUNDER.png        #PRIMARIS
       1736: Resources/MKX-ARMOR/IMPERIALF/XBOLTER.png         #PRIMARIS
 ##################################################################DON`T ALTER##################################################################
-##################################################################################################################################################		
+##################################################################################################################################################
 items:
   - type: STR_MKX_BIKE_CORPSE   #PRIMARIS
     recover: false
@@ -2642,8 +2642,8 @@ items:
     customItemPreviewIndex: 13
   - type: STR_SERVITOR #UNIT                                    2100
     customItemPreviewIndex: 10
-  - type: STR_TANK_LASER_CANNON #HWP                            2500	
-    customItemPreviewIndex: 8  
+  - type: STR_TANK_LASER_CANNON #HWP                            2500
+    customItemPreviewIndex: 8
   - type: STR_BANNER #             3005
     bigSprite: 223
     floorSprite: 109
@@ -2750,7 +2750,7 @@ items:
     floorSprite: 192
   - type: 4_CENT3
     floorSprite: 193
-  - type: 4_CENT4 
+  - type: 4_CENT4
     floorSprite: 194
   - type: STR_TERMINATOR_CORPSE
     bigSprite: 207
@@ -2764,7 +2764,7 @@ items:
   - type: STR_SCOUTH_CORPSE
     bigSprite: 456
     floorSprite: 299
-    recover: false	
+    recover: false
   - type: STR_CAPTAIN_CORPSE
     bigSprite: 210
     floorSprite: 98
@@ -2808,7 +2808,7 @@ crafts:
     sprite: 888
   - type: STR_REPULSOR_T        #PRIMARIS
     sprite: 887
-  - type: STR_IMPULSOR          #PRIMARIS 
+  - type: STR_IMPULSOR          #PRIMARIS
     sprite: 886
   - type: STR_IMPULSORS          #PRIMARIS
     sprite: 886
@@ -2823,7 +2823,7 @@ crafts:
   - type: STR_STORMHAWK
     sprite: 31
   - type: STR_STORMHAWKS
-    sprite: 100  
+    sprite: 100
   - type: STR_AVENGER #thunderhawnk Transport
     sprite: 24
   - type: STR_TTASS #thunderhawnk Transport ASS
@@ -2831,20 +2831,20 @@ crafts:
   - type: STR_TTDEV #thunderhawnk Transport DEV
     sprite: 501
   - type: STR_TTSCT #thunderhawnk Transport SCOUT
-    sprite: 502	  
+    sprite: 502
   - type: STR_SPEEDC
     sprite: 30
   - type: STR_CHAPTERARMY
     sprite: 32
   - type: STR_SKYRANGER #dropod´s
-    sprite: 23	
+    sprite: 23
   - type: STR_LIGHTNING #thunderhawnk Type 2
     maxSkinIndex: 4            # default 0
     skinSprites: [878,879,880,881] # default empty, contains all sprites except for the first (index zero)
     sprite: 22
-  - type: STR_THUNDERHAWNK #thunderhawnk Type 1  
+  - type: STR_THUNDERHAWNK #thunderhawnk Type 1
     maxSkinIndex: 4            # default 0
     skinSprites: [878,879,880,881] # default empty, contains all sprites except for the first (index zero)
-    sprite: 22 
+    sprite: 22
   - type: STR_OLDTHUNDERHAWNK # OLD thunderhawnk
     sprite: 22
